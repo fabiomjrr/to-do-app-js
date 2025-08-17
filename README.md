@@ -1,2 +1,2 @@
 # to-do-app
-This project is a To-Do List web application built using HTML, CSS, and JavaScript, featuring the ability to add, mark as complete, and delete tasks, with a simple and interactive user interface designed for managing daily activities efficiently.
+This To-Do App is a simple web application built with JavaScript, HTML, and CSS, offering users the ability to create, mark as complete, and delete tasks through an intuitive interface that emphasizes simplicity and responsiveness 
